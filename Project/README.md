@@ -1,4 +1,3 @@
-Sure! Here’s a README.md file tailored to your GAN-based music generation project:
 # Music Generation Using GANs
 
 ## Project Overview
